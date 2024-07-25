@@ -1,0 +1,23 @@
+[
+    {
+        "ma_sach": "66",
+        "tieu_de": "bean",
+        "tac_gia": "khai",
+        "nam_xuat_ban": 2018,
+        "so_luong_con_lai": 3
+    },
+    {
+        "ma_sach": "578",
+        "tieu_de": "bean",
+        "tac_gia": "khai",
+        "nam_xuat_ban": 6424,
+        "so_luong_con_lai": 42
+    },
+    {
+        "ma_sach": "123",
+        "tieu_de": "dhs",
+        "tac_gia": "dssd",
+        "nam_xuat_ban": 12314,
+        "so_luong_con_lai": 12
+    }
+]
